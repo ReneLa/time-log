@@ -1,8 +1,7 @@
 import Calendar from "@/components/Calendar";
 import Logs from "@/components/Logs";
 import Navbar from "@/components/Navbar";
-import { NewLog } from "@/components/Newlog";
-import { Button } from "@/components/ui/button";
+import { NewLog } from "@/components/NewLog";
 
 export default function Page() {
   return (
